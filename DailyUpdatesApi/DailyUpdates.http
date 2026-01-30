@@ -1,0 +1,6 @@
+@DailyUpdates_HostAddress = http://localhost:5207
+
+GET {{DailyUpdates_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
